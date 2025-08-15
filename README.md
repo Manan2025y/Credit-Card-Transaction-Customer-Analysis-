@@ -1,7 +1,7 @@
 # 💳 Project Overview  
 **Project Title:** Credit Card Transaction & Customer Analysis  
 **Level:** Beginner to Intermediate  
-**Tools Used:** PostgreSQL (pgAdmin 4), Power BI  
+**Tools Used:** PostgreSQL (pgAdmin 4), Power BI   
 **Database:** `sql_credit_project`
 
 This project combines SQL and Power BI to analyze credit card transactions and customer demographics. It demonstrates how data analysts explore, clean, and visualize financial and behavioral data to uncover patterns, trends, and actionable insights.
